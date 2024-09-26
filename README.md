@@ -9,4 +9,3 @@ This tutorial is a must-watch for those who want to enhance their Flask apps wit
 
 ### Complete Explanation: [Click Here To Open The Complete Video](https://youtu.be/9K-Z3C_WAL8)
 
-#Flask #SQLAlchemy #Python #WebDevelopment #DatabaseManagement #CRUD #CodingInHindi #UpdateDelete #PythonWeb #SQL
